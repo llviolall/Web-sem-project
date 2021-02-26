@@ -1,0 +1,48 @@
+.container p {
+    padding-top: 2px;
+}
+.container span {
+    font-size: 18px;
+}
+input[type='submit'] {
+    width: 8rem;
+}
+label {
+    margin-bottom: 0.5em;
+}
+a label {
+    margin-bottom: 0;
+}
+
+a {
+    color: rgba(180, 12, 121, 0.68)
+}
+
+a:hover {
+color: rgba(180, 12, 121, 1);
+text-decoration: underline;
+}
+
+.btn-success {
+color: #fff;
+background-color: rgba(180, 12, 121, 0.68);
+border-color: rgba(180, 12, 121, 0.68);
+}
+
+.btn-success:hover {
+color: #fff;
+background-color: rgba(180, 12, 121, 1);
+border-color: rgba(180, 12, 121, 1);
+}
+
+.btn-outline-primary:hover {
+color: #fff;
+background-color: rgba(180, 12, 121, 1);
+border-color: rgba(180, 12, 121, 1);
+}
+
+.btn-outline-primary {
+color: #fff;
+background-color: rgba(180, 12, 121, 0.68);
+border-color: rgba(180, 12, 121, 0.68);
+}

@@ -1,0 +1,37 @@
+en:
+  mainname: "Confectionery «Glaze»"
+  activerecord:
+    attributes:
+      user:
+        email: "Email"
+        password: "Password"
+        password_confirmation: "Password confirmation"
+        name: "Name"
+        town: "City"
+        group: "Favorite food"
+        age: "Age"
+      post:
+        title: 'Title'
+        body: 'Recipe'
+        create: 'Add'
+  pages:
+    news: 'All recipes'
+    add: 'New recipe'
+    my_posts: 'My recipes'
+    my_profile: 'My profile'
+    login: 'Login'
+    logout: 'Logout'
+    signup: 'Registration'
+  my_posts:
+    read_more: 'More'
+    edit: 'Edit'
+    delte: 'Delete'
+    back: 'Back'
+  profile:
+    profile: 'Profile'
+    name: 'Name'
+    email: 'Email'
+    age: 'Age'
+    town: 'City'
+    group: 'Favorite food'
+    save: 'Save'

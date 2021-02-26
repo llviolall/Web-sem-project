@@ -1,0 +1,49 @@
+footer {
+    width: 100%;
+    height: 3rem;
+}
+#title {
+    margin-right: auto;
+}
+* {
+    box-sizing: border-box;
+}
+body, html {
+    height: 100%;
+}
+#backBtn {
+    width: 8rem;
+}
+img {
+    width: 5em;
+    height: 70%;
+    margin-right: 2em;
+}
+#pageLogBtn {
+    width: 6em;
+}
+label {
+    margin-bottom: 0;
+}
+
+a {
+    color: rgba(180, 12, 121, 0.68)
+}
+
+a:hover {
+color: rgba(180, 12, 121, 1);
+text-decoration: underline;
+}
+
+.btn-outline-primary:hover {
+color: #fff;
+background-color: rgba(180, 12, 121, 1);
+border-color: rgba(180, 12, 121, 1);
+}
+
+.btn-outline-primary {
+color: #fff;
+background-color: rgba(180, 12, 121, 0.68);
+border-color: rgba(180, 12, 121, 0.68);
+}
+

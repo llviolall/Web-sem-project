@@ -1,0 +1,60 @@
+.alert-light {
+    background-color: rgba(0, 125, 215, 0.03);
+}
+
+.btn-info {
+	color: #fff;
+	background-color: rgba(240, 177, 218, 0.68);
+	border-color: rgba(240, 177, 218, 0.68);
+}
+
+.btn-info:hover {
+color: #fff;
+background-color: rgba(240, 176, 218, 1);
+border-color: rgba(240, 176, 218, 1);
+}
+
+.btn-warning {
+color: #fff;
+background-color: rgba(210, 119, 178, 0.68);
+border-color: rgba(210, 119, 178, 0.68);
+}
+
+.btn-warning:hover {
+color: #fff;
+background-color: rgba(210, 119, 178, 1);
+border-color: rgba(210, 119, 178, 1);
+}
+
+.btn-danger {
+color: #fff;
+background-color: rgba(180, 12, 121, 0.68);
+border-color: rgba(180, 12, 121, 0.68);
+}
+
+.btn-danger:hover {
+color: #fff;
+background-color: rgba(180, 12, 121, 1);
+border-color: rgba(180, 12, 121, 1);
+}
+
+a.navs {
+color: rgba(180, 12, 121, 0.68)
+}
+
+a.navs:hover {
+color: rgba(180, 12, 121, 1);
+text-decoration: underline;
+}
+
+.btn-outline-primary:hover {
+color: #fff;
+background-color: rgba(180, 12, 121, 1);
+border-color: rgba(180, 12, 121, 1);
+}
+
+.btn-outline-primary {
+color: #fff;
+background-color: rgba(180, 12, 121, 0.68);
+border-color: rgba(180, 12, 121, 0.68);
+}

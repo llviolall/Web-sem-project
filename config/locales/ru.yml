@@ -1,0 +1,37 @@
+ru:
+  mainname: "Кондитерская «Глазурь»"
+  activerecord:
+    attributes:
+      user:
+        email: "Почта"
+        password: "Пароль"
+        password_confirmation: "Подтверждение пароля"
+        name: "Имя"
+        town: "Город"
+        group: "Любимое блюдо"
+        age: "Возраст"
+      post:
+        title: 'Название'
+        body: 'Текст рецепта'
+        create: 'Добавить'
+  pages:
+    news: 'Все рецепты'
+    add: 'Добавить рецепт'
+    my_posts: 'Мои рецепты'
+    my_profile: 'Мой профиль'
+    login: 'Войти'
+    logout: 'Выйти'
+    signup: 'Регистрация'
+  my_posts:
+    read_more: 'Читать далее'
+    edit: 'Редактировать'
+    delte: 'Удалить'
+    back: 'Назад'
+  profile:
+    profile: 'Профиль'
+    name: 'Имя'
+    email: 'Почта'
+    age: 'Возраст'
+    town: 'Город'
+    group: 'Любимое блюдо'
+    save: 'Сохранить'

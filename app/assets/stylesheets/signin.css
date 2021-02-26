@@ -1,0 +1,53 @@
+#title {
+    margin-right: auto;
+}
+.container {
+    margin-top: 10rem;
+    width: 30%;
+}
+.actions {
+    display: flex;
+    margin-top: 1.5em;
+}
+div>input[type='submit'] {
+    margin: auto;
+    width: 10em;
+    margin-top: 1em;
+}
+.field {
+    margin-top: 7px;
+}
+#Button {
+    width: 10em;
+}
+a:last-child {
+    margin-left: 2em;
+}
+label {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+a label {
+    margin: auto;
+}
+
+a {
+    color: rgba(180, 12, 121, 0.68)
+}
+
+a:hover {
+color: rgba(180, 12, 121, 1);
+text-decoration: underline;
+}
+
+.btn-outline-primary:hover {
+color: #fff;
+background-color: rgba(180, 12, 121, 1);
+border-color: rgba(180, 12, 121, 1);
+}
+
+.btn-outline-primary {
+color: #fff;
+background-color: rgba(180, 12, 121, 0.68);
+border-color: rgba(180, 12, 121, 0.68);
+}

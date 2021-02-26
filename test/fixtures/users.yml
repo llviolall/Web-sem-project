@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: arar@ya.ru
+  password_digest: <%= BCrypt::Password.create('secret') %>
+  name: MyString
+  age: 1
+  town: MyString
+  group: MyString
+
+two:
+  email: arars@ya.ru
+  password_digest: <%= BCrypt::Password.create('secret') %>
+  name: MyString
+  age: 1
+  town: MyString
+  group: MyString
